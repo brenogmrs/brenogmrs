@@ -1,4 +1,4 @@
-### Olá
+### Olá, eu sou o Breno!
 
 - 🔭 Atualmente atuando com backend
 - 🌱 Estudando e trabalhando com Typescript 
