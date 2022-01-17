@@ -5,8 +5,8 @@
 <div align="center">
   <a href="https://github.com/brenogmrs">
     <!--<img align="left" height="200em" src="https://media4.giphy.com/media/2xDcf5tkCRKqqE15JM/giphy.gif?cid=ecf05e471fjeh3amkgzcn38xul7sfdvmk01fflqgmc2xgb4x&rid=giphy.gif&ct=g"/> -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brenogmrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenogmrs&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenogmrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenogmrs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
