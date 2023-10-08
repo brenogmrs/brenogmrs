@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente atuando com backend
 - 🌱 Trabalhando com Nodejs e Typescript
-- 📖 Estudando Go
 <div align="center">
   <a href="https://github.com/brenogmrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenogmrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
