@@ -1,6 +1,6 @@
 ### Olá, eu sou o Breno!
 
-- 🔭 Atualmente atuando com backend
+- 🔭 atuando com Backend
 - 🌱 Trabalhando com Nodejs e Typescript
 <div align="center">
   <a href="https://github.com/brenogmrs">
